@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & DevOps Engineer
 ------------------------------------
 
-I am a fullstack developer with over 3 years hands-on experience. Proficient in MERN/PERN stack. A great knowledge of GraphQL with typescript, as well as a working knowledge of AWS microservices using Lambda and S3 buckets. Additionally, I have built and shipped apps using docker. Also presently learning kubernetes and AWS EC2.
+I am a fullstack developer with 3+ years hands-on experience. Proficient in MERN/PERN stack. A great knowledge of GraphQL with typescript, as well as a working knowledge of AWS microservices using Lambda and S3 buckets. Additionally, I have built and shipped apps using docker. Also presently learning kubernetes and AWS EC2.
 
-* 🌍  I'm based in Lagos
+* 🌍  I'm based on Earth
 * ✉️  You can contact me at [ademuyiwaadewuyi@gmail.com](mailto:ademuyiwaadewuyi@gmail.com)
-* 🧠  I'm learning Vue.js, Microsoft Azure
 * 🤝  I'm open to collaborating on Exciting Projects
 
 ### Skills
